@@ -1,4 +1,4 @@
-# BMW-remote-tunnel-downloads# BMW Remote Tunnel – Downloads
+# BMW Remote Tunnel – Downloads
 
 Remote BMW diagnostics over your own encrypted tunnel. A technician's PC (ISTA / E-Sys) sees the ICOM or ENET cable at the customer's car as if it were plugged in locally.
 
