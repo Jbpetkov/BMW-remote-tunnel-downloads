@@ -2,7 +2,6 @@
 
 Remote BMW diagnostics over your own encrypted tunnel. A technician's PC (ISTA / E-Sys) sees the ICOM or ENET cable at the customer's car as if it were plugged in locally.
 
-**BG:** Отдалечена диагностика на BMW през собствен криптиран тунел.
 
 ## Download
 Get the latest files from **Releases** (right side of this page).
