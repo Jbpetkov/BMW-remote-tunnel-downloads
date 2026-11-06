@@ -3,8 +3,6 @@
 **Remote BMW diagnostics and coding over your own encrypted tunnel.**
 The technician's PC with ISTA or E-Sys sees the ICOM or ENET cable at the customer's car as if it were plugged in locally – no remote desktop, no extra hardware.
 
-🇧🇬 [Български](README.bg.md)
-
 ```
  Car ── ICOM / ENET ── Client PC  ══ internet ══  Relay server  ══ internet ══  Technician PC (ISTA / E-Sys)
 ```
